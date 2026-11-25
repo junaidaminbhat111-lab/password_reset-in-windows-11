@@ -33,6 +33,7 @@ Installed apps/software
 Old password
 ⚙️ 7. Choose reinstall type
 Select Local reinstall (recommended)
+
 ▶️ 8. Start process
 Click Reset
 PC will restart automatically
